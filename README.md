@@ -2,7 +2,7 @@ Project Title:
 Efficient Data Stream Anomaly Detection
 
 Project Description:
-Your task is to develop a Python script capable of detecting anomalies in a continuous data stream. This stream, simulating real-time sequences of floating-point numbers, could represent various metrics such as financial transactions or system metrics. Your focus will be on identifying unusual patterns, such as exceptionally high values or deviations from the norm.
+Z algorithm implementation detecting anomalies in a continuous data stream. This stream, simulating real-time sequences of floating-point numbers, could represent various metrics such as financial transactions or system metrics. The focus is on identifying unusual patterns, such as exceptionally high values or deviations from the norm.
 
 Objectives:
 
@@ -12,5 +12,5 @@ Anomaly Detection: Develop a real-time mechanism to accurately flag anomalies as
 Optimization: Ensure the algorithm is optimized for both speed and efficiency.
 Visualization: Create a straightforward real-time visualization tool to display both the data stream and any detected anomalies.
 
-How to run : 
+Walkthrough : 
 Use the 'main.py' python module to run a live simulation of the project
